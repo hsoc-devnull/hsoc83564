@@ -73,7 +73,7 @@ const ghost = {
 }
 ```
 
-[![GitHub](https://img.shields.io/badge/@ghost-00FF41?style=flat-square&logo=github&logoColor=0d0d0d)](https://github.com/hectoroyogo)
+[![GitHub](https://img.shields.io/badge/@hectoroyogo-00FF41?style=flat-square&logo=github&logoColor=0d0d0d)](https://github.com/hectoroyogo)
 
 </td>
 <td align="center" width="33%">
@@ -98,7 +98,7 @@ const spectre = {
 }
 ```
 
-[![GitHub](https://img.shields.io/badge/@spectre-00FFFF?style=flat-square&logo=github&logoColor=0d0d0d)](https://github.com/ogclau)
+[![GitHub](https://img.shields.io/badge/@ogclau-00FFFF?style=flat-square&logo=github&logoColor=0d0d0d)](https://github.com/ogclau)
 
 </td>
 <td align="center" width="33%">
@@ -123,7 +123,7 @@ const cipher = {
 }
 ```
 
-[![GitHub](https://img.shields.io/badge/@cipher-FF00FF?style=flat-square&logo=github&logoColor=0d0d0d)](https://github.com/Maximo-sudo)
+[![GitHub](https://img.shields.io/badge/@Maximo-sudo-FF00FF?style=flat-square&logo=github&logoColor=0d0d0d)](https://github.com/Maximo-sudo)
 
 </td>
 </tr>
