@@ -137,22 +137,22 @@ const cipher = {
 
 **`// LANGUAGES`**
 
-![Java](https://img.shields.io/badge/Go-0d0d0d?style=for-the-badge&logo=java&logoColor=00FF41)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=java&logoColor=00FF41)
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00FFFF)
 ![Bash](https://img.shields.io/badge/Bash-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=00FFFF)
 
 **`// FRONTEND`**
 
-![Html](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=html&logoColor=ffffff)
-![Css](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=css&logoColor=00FFFF)
-![JS](https://img.shields.io/badge/Three.js-0d0d0d?style=for-the-badge&logo=javascript&logoColor=FF00FF)
+![Html](https://img.shields.io/badge/Html-0d0d0d?style=for-the-badge&logo=html&logoColor=ffffff)
+![Css](https://img.shields.io/badge/Css-0d0d0d?style=for-the-badge&logo=css&logoColor=00FFFF)
+![JS](https://img.shields.io/badge/Javascript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=FF00FF)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=00FF41)
 
 **`// BACKEND & INFRA`**
 
 ![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=00FFFF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=FF00FF)
-![SQL](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=sql&logoColor=FF4444)
+![SQL](https://img.shields.io/badge/Sql-0d0d0d?style=for-the-badge&logo=sql&logoColor=FF4444)
 ![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=FFD700)
 ![Kubernetes](https://img.shields.io/badge/K8s-0d0d0d?style=for-the-badge&logo=kubernetes&logoColor=00FF41)
 ![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=00FFFF)
