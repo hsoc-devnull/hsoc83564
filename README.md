@@ -59,7 +59,7 @@ class HypeSociety:
 └─────────────────────┘
 ```
 
-<img src="https://api.dicebear.com/7.x/bottts-neutral/svg?seed=node01&backgroundColor=0d0d0d&radius=12" width="88"/>
+<img src="https://github.com/hectoroyogo.png" width="88" style="border-radius:12px"/>
 
 ### `_GHOST`
 
@@ -84,7 +84,7 @@ const ghost = {
 └─────────────────────┘
 ```
 
-<img src="https://api.dicebear.com/7.x/bottts-neutral/svg?seed=node02&backgroundColor=0d0d0d&radius=12" width="88"/>
+<img src="https://github.com/ogclau.png" width="88" style="border-radius:12px"/>
 
 ### `_SPECTRE`
 
@@ -109,7 +109,7 @@ const spectre = {
 └─────────────────────┘
 ```
 
-<img src="https://api.dicebear.com/7.x/bottts-neutral/svg?seed=node03&backgroundColor=0d0d0d&radius=12" width="88"/>
+<img src="https://github.com/maximo-sudo.png" width="88" style="border-radius:12px"/>
 
 ### `_CIPHER`
 
