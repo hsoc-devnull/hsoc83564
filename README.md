@@ -59,7 +59,7 @@ class HypeSociety:
 └─────────────────────┘
 ```
 
-<img src="https://github.com/hectoroyogo.png" width="88" style="border-radius:12px"/>
+<img src="https://github.com/hectoroyogo.png" width="88" style="border-radius:25px"/>
 
 ### `_GHOST`
 
@@ -84,7 +84,7 @@ const ghost = {
 └─────────────────────┘
 ```
 
-<img src="https://github.com/ogclau.png" width="88" style="border-radius:12px"/>
+<img src="https://github.com/ogclau.png" width="88" style="border-radius:25px"/>
 
 ### `_SPECTRE`
 
@@ -109,7 +109,7 @@ const spectre = {
 └─────────────────────┘
 ```
 
-<img src="https://github.com/maximo-sudo.png" width="88" style="border-radius:12px"/>
+<img src="https://github.com/maximo-sudo.png" width="88" style="border-radius:25px"/>
 
 ### `_CIPHER`
 
